@@ -24,6 +24,6 @@ All included technical documents are sample demonstration content.
 ## Retrieval verification
 Run `python scripts/evaluate.py` for a three-query sample relevance check and `python -m unittest discover -s tests -v` for ranking, input and source-attribution tests. See [architecture](docs/architecture.md). The current implementation performs lexical search, not embeddings or LLM answer generation.
 
-## AWS + Jira Cloud planning
+## AWS architecture planning
 
-See [AWS architecture and Jira Cloud backlog](docs/AWS_JIRA_ROADMAP.md). These are planning resources, **not** a claim of live AWS infrastructure or an active Jira Cloud board.
+See [AWS architecture roadmap](docs/AWS_JIRA_ROADMAP.md). This is planning documentation, not a claim of live AWS infrastructure.
