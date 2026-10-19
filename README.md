@@ -20,3 +20,6 @@ python -m unittest discover -s tests -v
 ```
 
 All included technical documents are sample demonstration content.
+
+## Retrieval verification
+Run `python scripts/evaluate.py` for a three-query sample relevance check and `python -m unittest discover -s tests -v` for ranking, input and source-attribution tests. See [architecture](docs/architecture.md). The current implementation performs lexical search, not embeddings or LLM answer generation.
