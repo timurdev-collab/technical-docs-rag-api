@@ -1,0 +1,1 @@
+Pressure loss can arise from friction, elevation changes, leaks or component restrictions. Engineers compare pressure at multiple locations and account for expected hydraulic gradients before concluding that a leak has occurred.
