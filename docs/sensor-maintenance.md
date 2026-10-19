@@ -1,0 +1,1 @@
+Sensor maintenance includes calibration, data-quality checks, drift detection and regular inspection. A single abnormal measurement is not definitive evidence of infrastructure failure. Validate readings against neighboring sensors.
