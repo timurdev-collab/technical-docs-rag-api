@@ -1,0 +1,1 @@
+Flow assurance concerns stable transport of fluid through pipelines. Operators track flow rates, pump operation and changing resistance. A sustained flow reduction at a constant operating point may justify further inspection.
